@@ -1,13 +1,12 @@
-# Olá mundo!! 👋 
-Sejam bem-vindos ao meu ✨humilde repositório✨
+# Sejam bem-vindos ao meu ✨humilde repositório✨
 
 ## Sobre mim:
-Me chamo Renan Kawamoto da Rocha e sou um desenvolvedor full-stack 💻.
+Me chamo ```Renan Kawamoto da Rocha``` e sou um desenvolvedor full-stack 💻.
 
 ## Projetos:
 - Projetos principais:
 
-## Técnologias:
+## Técnologias que uso:
 
 - Linguagens de Programação:
 <div>
